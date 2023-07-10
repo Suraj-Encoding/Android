@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="title_activity_main">Todo List</string>
+    <string name="package_name">com.suraj.app</string>
+    <string name="custom_url_scheme">com.suraj.app</string>
+</resources>
